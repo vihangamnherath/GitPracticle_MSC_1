@@ -8,6 +8,7 @@ A simple, interactive website designed to help beginners learn Git version contr
 LocalRepo/
 │
 ├── index.html          # Main HTML file
+├── contact.html        # Contact details oncluded HTML file
 ├── README.md           # Project documentation
 │
 ├── css/
